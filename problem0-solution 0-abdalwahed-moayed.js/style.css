@@ -1,0 +1,18 @@
+#container{
+    width: 80%;
+    margin: auto;
+}
+
+button{
+    padding: 10px;
+
+}
+h2{
+    /* width: 60%;
+    margin: auto; */
+    margin-bottom: 20px;
+}
+
+span{
+    color: red;
+}
